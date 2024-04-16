@@ -11,8 +11,8 @@
 ### Задание 2
 1. [bash-скрипт](script.sh)
 2. [конфигурационный файл keepalived](keepalived.conf)
-3. *[ошибок нет айпи 1 машины](virt_ip_no_error.png)
-     *[ошибка из-за отсутствия index.html, айпи 2 машины](virt_ip_error.png)
-       *
-       *
+3. * [ошибок нет айпи 1 машины](virt_ip_no_error.png)
+     * [ошибка из-за отсутствия index.html, айпи 2 машины](virt_ip_error.png)
+       * [ip MASTER machine](ip_1_machine(master).png)
+       * [ip BACKUP machine](ip_2_machine(backup).png)
 ---
