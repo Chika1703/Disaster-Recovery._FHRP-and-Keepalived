@@ -3,8 +3,8 @@
 ### Задание 1
 
 настройки 1 руотера и настройки 2 руотера
-1. ![настройки 1 руотера](https://github.com/Chika1703/Disaster-Recovery._FHRP-and-Keepalived/blob/main/router0.png)
-![натсройки 2 роутера](https://github.com/Chika1703/Disaster-Recovery._FHRP-and-Keepalived/blob/main/router1.png)
+1. ![настройки 1 руотера](image/router0.png)
+![натсройки 2 роутера](image/router1.png)
 2. [схема](hsrp_advanced.pkt)
 ---
 
